@@ -3,4 +3,5 @@
 <h2>Modulo 01 de CSS</h2>
 <ol>
   <li>We Care</li>
+  <img src="./01 - CSS/WE CARE/img/desktop.PNG" alt="logo" class="desktop" />
 </ol>
